@@ -1,3 +1,9 @@
+## Issues related
+
+**Fixes**: Issue that this PR fixes - use autolinked reference to our issues repository (e.g. knok-healhcare/knok#ISSUE_NUMBER)
+
+**Related PR's**: Pull requests that are dependent on this PR
+
 ## Description
 
 What does this PR solves/fixes?
@@ -6,8 +12,3 @@ What does this PR solves/fixes?
 
 Show the result with screenshots (if it applies)
 
-## Issues related
-
-**Fixes**: Issue that this PR fixes - use autolinked reference to our issues repository (e.g. knok-healhcare/knok#ISSUE_NUMBER)
-
-**Related PR's**: Pull requests that are dependent on this PR
